@@ -12,10 +12,6 @@ JSON between the frontend and the database (🪚 the world is so cruel).
 🍯 To be honest, I haven't had too many years in development yet, so I can't
 tell anything interesting about myself (but I'm actively fixing that).
 
-🌟 Thought of, here's an interesting one: I like lobiani (it's the Georgian
-🫘 bean-filled bread), and I recommend everyone to come to 🇬🇪 Georgia (still not
-the state!) and taste it for themselves.
-
 🌍 Here are a few small projects that are here:
 
 - `lorem_text_bot`: telegram bot for generating abstract pseudotext phrases
