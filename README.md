@@ -2,24 +2,23 @@
 
 👨🏻‍💻 I'm Mikhail Tetelev
 
-🏡 I temporarily live in 🇬🇪 Kutaisi, `Georgia` (the country, not the state!), used
-to live in 🇷🇺 Russia, and I am thinking about relocating to 🇨🇭 Europe.
+🏡 I temporarily live in 🇬🇪 Kutaisi, `Georgia` (the country, not the state!),
+previously lived in 🇷🇺 Russia, and I am thinking about relocating to 🇨🇭 Europe.
 
 🐍 I am a `Python` developer (mostly Django) and have also dealt with
 🟨 `JavaScript`. I like complicated algorithms of all kinds, but I usually move
 JSON between the frontend and the database (🪚 the world is so cruel).
 
-🍯 To be honest, I haven't had too many years in development yet, so I can't
-tell anything interesting about myself (but I'm actively fixing that).
-
 🌍 Here are a few small projects that are here:
 
-- `lorem_text_bot`: telegram bot for generating abstract pseudotext phrases
-- `random_image_generator`: image generator consisting of unique patterns
-- `small_projects/brainfuck`: interpreter of the **brainfuck** language and a
-	couple of dozen its translations
+- [image generator](https://github.com/tetelevm/random_image_generator) consisting of unique patterns
+- [telegram bot](https://github.com/tetelevm/lorem_text_bot) for generating abstract pseudotext phrases
+- [bot for controlling](https://github.com/tetelevm/bot_of_tower) the building of towers made of letters in telegram chats
+- [interpreter of the](https://github.com/tetelevm/small_projects/tree/main/brainfuck) **brainfuck** language and a couple of dozen its translations
+- [academic project](https://github.com/tetelevm/file_deployment_manager) with implementation of different optimization algorithms (a couple of algorithms are planned)
+- [test project](https://github.com/tetelevm/fr_test_task) on **django**+**vue** to learn some new things (WIP)
 
-📧 You can contact me by mail `tetelevm@proton.me`
+📧 You can contact me by mail `tetelevm@mailo.com`
 
 ![python](https://img.shields.io/badge/python-%23ffd342.svg?&style=for-the-badge&logo=python&logoColor=%233673a5)
 ![django](https://img.shields.io/badge/django-%23092d1f.svg?&style=for-the-badge&logo=django&logoColor=%23f7f7f7)
